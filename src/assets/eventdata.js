@@ -26,7 +26,7 @@ const events = {
             start: "24th Feb",
             end: "2nd Mar",
             days: [
-                24, 25, 26, 27,  28
+                24, 25, 26, 27, 28
             ],
             name: "Efficient Hours Played",
             image: 3
