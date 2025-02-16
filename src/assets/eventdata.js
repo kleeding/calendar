@@ -17,7 +17,7 @@ const events = {
             days: [
                 10, 11, 12, 13, 14, 15, 16
             ],
-            name: "Boss of the Week - EHB",
+            name: "Efficient Hours Bossed",
             image: 1,
             discord_link: "https://....",
             wom_link: "https://...."
@@ -28,7 +28,7 @@ const events = {
             days: [
                 24, 25, 26, 27,  28
             ],
-            name: "Skill of the Week - EHP",
+            name: "Efficient Hours Played",
             image: 3
         }
     ],
